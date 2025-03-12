@@ -1,0 +1,21 @@
+{"frames": {
+
+"gameGrid":
+{
+	"frame": {"x":1,"y":1,"w":793,"h":747},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":793,"h":747},
+	"sourceSize": {"w":793,"h":747}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-2.png",
+	"format": "RGBA8888",
+	"size": {"w":795,"h":795},
+	"scale": "1",
+	"related_multi_packs": [ "game-0.json", "game-1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:0dfbc479aa71ca0eb1dad20fa659d400:49f29c8342f0ff3269cca8214f649748:36c4afdab0cf3de4e276e0a60a9b2080$"
+}
+}

@@ -1,0 +1,68 @@
+{
+"skeleton": {
+	"hash": "4Fbuoz4bXVI37kFJ8+ya+k55YvY",
+	"spine": "3.8.99",
+	"x": -181.5,
+	"y": -181.5,
+	"width": 363,
+	"height": 363,
+	"images": "./images/",
+	"audio": "/Users/glawrence/Desktop/wild8s"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "8Bone", "parent": "root", "length": 195.96, "rotation": 90, "x": -4.23, "y": -31.29 },
+	{ "name": "wildBone", "parent": "root", "length": 232.99, "rotation": 90, "y": -121.14 },
+	{ "name": "bone", "parent": "root", "length": 100, "rotation": 89.55 }
+],
+"slots": [
+	{ "name": "burst", "bone": "bone", "attachment": "burst" },
+	{ "name": "wild", "bone": "wildBone", "attachment": "groovy" },
+	{ "name": "8", "bone": "8Bone", "attachment": "8" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"8": {
+				"8": { "x": -13.51, "y": -4.73, "rotation": -90, "width": 158, "height": 182 }
+			},
+			"burst": {
+				"burst": { "rotation": -89.55, "width": 363, "height": 363 }
+			},
+			"wild": {
+				"groovy": { "x": 169.73, "y": -4.68, "rotation": -90, "width": 293, "height": 119 },
+				"wild": { "x": 183, "y": -0.5, "rotation": -90, "width": 270, "height": 131 }
+			}
+		}
+	}
+],
+"animations": {
+	"wobble": {
+		"bones": {
+			"wildBone": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": -10, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": 20, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			},
+			"8Bone": {
+				"scale": [
+					{ "curve": 1, "c3": 0.462, "c4": 1.6 },
+					{ "time": 0.6667, "x": 0.8, "y": 1.3 },
+					{ "time": 1.3333 }
+				]
+			},
+			"bone": {
+				"rotate": [
+					{ "angle": 0.45 },
+					{ "time": 0.6667, "angle": -179.55 },
+					{ "time": 1.3333, "angle": 0.45 }
+				]
+			}
+		}
+	}
+}
+}

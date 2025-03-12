@@ -1,0 +1,95 @@
+{
+  "version":"0",
+  "Paytable": {
+    "RTPvalue": "is {@minRTP}%0",
+    "RTPrange": "is from {@minRTP}% to {@maxRTP}%0",
+    "paybackTitle": "Expected Payback0",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.0",
+    "subheading": "Ticket Cost: {ticketCost}0",
+    "prizeLevel": "Prize Level0",
+    "prizeValue": "Prize Value0",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.0",
+    "prizeDivision": "Prize Division0",
+    "prizeRemaining": "Approximate Prizes Remaining0",
+    "oddsPerPlay": "Odds Per Play0"
+  },
+  "title": "TEMPLATE0",
+  "MenuCommand": {
+    "price": "Price0",
+    "stake": "Stake0",
+    "howToPlay": "Help0",
+    "paytable": "Paytable0",
+    "close": "Close0",
+    "audio": {
+      "sound": "Sound0",
+      "on": "On0",
+      "off": "Off0"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: 0",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the gameThere has been an internal error. EXIT and relaunch the gameThere has been an internal error. EXIT and relaunch the game.0"
+  },
+  "Game": {
+    "footer_balance": "BALANCEBALANCEBALANCE0",
+    "footer_ticketCost": "TICKET COSTTICKET COSTICKET COSTT0",
+    "ticketSelect_ticketCost": "TICKET COSTTICKET COSTTICKET COST0",
+    "ticketCostPrefix": {
+      "BUY": "0",
+      "TRY": "TRYTRYTRY0"
+    },
+    "footer_win": {
+      "BUY": "WINWINWIN0",
+      "TRY": "DEMO WINDEMO WINDEMO WIN0"
+    },
+
+    "button_buy": {
+      "BUY": "BUYBUYBUY0",
+      "TRY": "TRYTRYTRY0"
+    },
+    "button_try": "TRYTRYTRY0",
+    "button_continue": "CONTINUECONTINUECONTINUE0",
+    "button_moveToMoney": "MOVE TO MONEYMOVE TO MONEYMOVE TO MONEY0",
+    "button_autoPlay": "REVEAL ALLREVEAL ALLREVEAL ALL0",
+    "button_stop": "STOPSTOPSTOP0",
+    "button_drop": "PLAYPLAYPLAY0",
+    "button_playAgain":{
+      "BUY": "PLAY AGAINPLAY AGAINPLAY AGAIN0",
+      "TRY": "TRY AGAINTRY AGAINTRY AGAIN0"
+    },
+    "button_tryAgain": "TRY AGAINTRY AGAINTRY AGAIN0",
+    "button_ok": "OKOKOK0",
+    "button_exit": "EXITEXITEXIT0",
+    "button_retry": "RETRYRETRYRETRY0",
+    
+    "error_button_exit": "EXITEXITEXIT0",
+    "error_title": "ERRORERRORERROR0",
+    
+    "message_nonWin": "BETTER LUCK\nNEXT TIME0BETTER LUCK\nNEXT TIME0BETTER LUCK\nNEXT TIME0",
+    "message_win": {
+      "BUY": "WINWINWIN0",
+      "TRY": "DEMO WINDEMO WINDEMO WIN0"
+    },
+    "message_totalWin": {
+      "BUY": "TOTAL WINTOTAL WINTOTAL WIN0",
+      "TRY": "TOTAL DEMO WINTOTAL DEMO WINTOTAL DEMO WIN0"
+    },
+    "message_largeTitle": "CONGRATULATIONS!CONGRATULATIONS!CONGRATULATIONS!0",
+    "message_largeLabel": {
+      "BUY": "YOU HAVE WONYOU HAVE WONYOU HAVE WON0",
+      "TRY": "YOU COULD HAVE WONYOU COULD HAVE WONYOU COULD HAVE WON0"
+    },
+
+    "infoText" : "symbol is wild and activates 3 Bonus Turnssymbol is wild and activates 3 Bonus Turnssymbol is wild and activates 3 Bonus Turns0",
+    "infoTextPortrait" : "symbol is wild and activates 3 Bonus Turnssymbol is wild and activates 3 Bonus Turnssymbol is wild and activates 3 Bonus Turns0",
+    "howToPlay": "",
+    "page1": "Reveal 3 8's in any row, column, or diagonal to win the Prize Box amount.\n\nReveal the Bonus Box for a chance to multiply the prize amount won by up to 4x.\n\nReveal the Groovy 8 symbol to win 3 Bonus Turns for even more chances to win!Reveal 3 8's in any row, column, or diagonal to win the Prize Box amount.\n\nReveal the Bonus Box for a chance to multiply the prize amount won by up to 4x.\n\nReveal the Groovy 8 symbol to win 3 Bonus Turns for even more chances to win!Reveal 3 8's in any row, column, or diagonal to win the Prize Box amount.\n\nReveal the Bonus Box for a chance to multiply the prize amount won by up to 4x.\n\nReveal the Groovy 8 symbol to win 3 Bonus Turns for even more chances to win!0",
+    "prizeBox": "PRIZE\nBOXPRIZE 0 PRIZE\nBOXPRIZE 0 PRIZE\nBOXPRIZE 0",
+    "multiplierBox": "BONUS\nBOXBONUS 0 BONUS\nBOXBONUS 0 BONUS\nBOXBONUS 0",
+
+    "winUpTo": "WIN UP TOWIN UP TOWIN UP TO0",
+    "bonusTextPlural": "Bonus TurnsBonus TurnsBonus Turns0",
+    "bonusTextLast": "LastLastLast0",
+    "bonusTextSingle":  "Bonus TurnBonus TurnBonus Turn0"
+  }
+}

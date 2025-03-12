@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "ch6.mp3",
+    "ch6.ogg",
+    "ch6.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BonusTileReveal2": [
+      1050,
+      1608.5487528344672
+    ],
+    "TileReveal01": [
+      3100,
+      1208.956916099773
+    ]
+  }
+}

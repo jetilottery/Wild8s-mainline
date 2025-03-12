@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "DaV5Nr+2OwA+fbKoHF7qWUEuSFA",
+	"spine": "3.8.99",
+	"x": -168,
+	"y": -51,
+	"width": 337,
+	"height": 103,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "sweep", "bone": "root", "attachment": "button_00000" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"sweep": {
+				"button_00000": { "x": 0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00001": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00002": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00003": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00004": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00005": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00006": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00007": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00008": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00009": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00010": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00011": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00012": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00013": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00014": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00015": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00016": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00017": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00018": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 },
+				"button_00019": { "x": -0.5, "y": 0.5, "width": 337, "height": 103 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"sweep": {
+				"attachment": [
+					{ "time": 0.0333, "name": "button_00001" },
+					{ "time": 0.0667, "name": "button_00002" },
+					{ "time": 0.1, "name": "button_00003" },
+					{ "time": 0.1333, "name": "button_00004" },
+					{ "time": 0.1667, "name": "button_00005" },
+					{ "time": 0.2, "name": "button_00006" },
+					{ "time": 0.2333, "name": "button_00007" },
+					{ "time": 0.2667, "name": "button_00008" },
+					{ "time": 0.3, "name": "button_00009" },
+					{ "time": 0.3333, "name": "button_00010" },
+					{ "time": 0.3667, "name": "button_00011" },
+					{ "time": 0.4, "name": "button_00012" },
+					{ "time": 0.4333, "name": "button_00013" },
+					{ "time": 0.4667, "name": "button_00014" },
+					{ "time": 0.5, "name": "button_00015" },
+					{ "time": 0.5333, "name": "button_00016" },
+					{ "time": 0.5667, "name": "button_00017" },
+					{ "time": 0.6, "name": "button_00018" },
+					{ "time": 0.6333, "name": "button_00019" },
+					{ "time": 0.6667, "name": "button_00018" },
+					{ "time": 0.7, "name": "button_00017" },
+					{ "time": 0.7333, "name": "button_00016" },
+					{ "time": 0.7667, "name": "button_00015" },
+					{ "time": 0.8, "name": "button_00014" },
+					{ "time": 0.8333, "name": "button_00013" },
+					{ "time": 0.8667, "name": "button_00012" },
+					{ "time": 0.9, "name": "button_00011" },
+					{ "time": 0.9333, "name": "button_00010" },
+					{ "time": 0.9667, "name": "button_00009" },
+					{ "time": 1, "name": "button_00008" },
+					{ "time": 1.0333, "name": "button_00007" },
+					{ "time": 1.0667, "name": "button_00006" },
+					{ "time": 1.1, "name": "button_00005" },
+					{ "time": 1.1333, "name": "button_00004" },
+					{ "time": 1.1667, "name": "button_00003" },
+					{ "time": 1.2, "name": "button_00002" },
+					{ "time": 1.2333, "name": "button_00001" },
+					{ "time": 1.2667, "name": "button_00000" }
+				]
+			}
+		}
+	}
+}
+}

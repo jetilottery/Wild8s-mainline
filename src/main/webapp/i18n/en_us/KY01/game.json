@@ -1,0 +1,99 @@
+{
+    "version":"",
+    "Paytable": {
+      "RTPvalue": "is {@minRTP}%",
+      "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+      "paybackTitle": "Expected Payback",
+      "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+      "subheading": "Ticket Cost: {ticketCost}",
+      "prizeLevel": "Prize Level",
+      "prizeValue": "Prize Value",
+      "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+      "prizeDivision": "Prize Division",
+      "prizeRemaining": "Approximate Prizes Remaining",
+      "oddsPerPlay": "Odds Per Play"
+    },
+    "title": "TEMPLATE",
+    "MenuCommand": {
+      "price": "Price",
+      "stake": "Stake",
+      "howToPlay": "Help",
+      "paytable": "Paytable",
+      "close": "Close",
+      "audio": {
+        "sound": "Sound",
+        "on": "On",
+        "off": "Off"
+      }
+    },
+    "Error": {
+      "errorCodePrefix": "Error: ",
+      "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+    },
+    "Game": {
+      "footer_balance": "BALANCE",
+      "footer_ticketCost": "TICKET COST",
+      "ticketSelect_ticketCost": "TICKET COST",
+      "ticketCostPrefix": {
+        "BUY": "",
+        "TRY": "DEMO "
+      },
+      "footer_win": {
+        "BUY": "WINS",
+        "TRY": "DEMO WINS"
+      },
+  
+      "button_buy": {
+        "BUY": "BUY",
+        "TRY": "TRY"
+      },
+      "button_try": "TRY",
+      "button_continue": "CONTINUE",
+      "button_moveToMoney": "PLAY WITH MONEY",
+      "button_autoPlay": "REVEAL ALL",
+      "button_stop": "STOP",
+      "button_drop": "PLAY",
+      "button_playAgain":{
+        "BUY": "PLAY AGAIN",
+        "TRY": "TRY AGAIN"
+      },
+      "button_tryAgain": "TRY AGAIN",
+      "button_ok": "OK",
+      "button_exit": "EXIT",
+      "button_retry": "RETRY",
+      
+      "error_button_exit": "EXIT",
+      "error_title": "ERROR",
+      
+      "message_nonWin": "BETTER LUCK\nNEXT TIME",
+      "message_win": {
+        "BUY": "WIN",
+        "TRY": "DEMO WIN"
+      },
+      "message_totalWin": {
+        "BUY": "TOTAL WIN",
+        "TRY": "TOTAL DEMO WIN"
+      },
+      "message_largeTitle": {
+        "BUY": "CONGRATULATIONS!",
+        "TRY": "THANKS FOR PLAYING!"
+      },
+      "message_largeLabel": {
+        "BUY": "YOU HAVE WON",
+        "TRY": "YOU COULD HAVE WON"
+      },
+  
+      "infoText" : "symbol is wild and activates 3 Bonus Turns",
+      "infoTextPortrait" : "symbol is wild and activates 3 Bonus Turns",
+      "howToPlay": "",
+      "page1": "Reveal 3 8's in any row, column, or diagonal to win the Prize Box amount.\n\nReveal the Bonus Box for a chance to multiply the prize amount won by up to 4x.\n\nReveal the Wild 8 symbol to win 3 Bonus Turns for even more chances to win!",
+      "prizeBox": "PRIZE\nBOX",
+      "multiplierBox": "BONUS\nBOX",
+  
+      "winUpTo": "WIN UP TO",
+      "bonusTextPlural": "Bonus Turns",
+      "bonusTextLast": "Last",
+      "bonusTextSingle":  "Bonus Turn"
+    }
+  }
+  

@@ -1,0 +1,96 @@
+{
+"skeleton": {
+	"hash": "rHnlr5eAKxw3rq1IJbdQw6TYInA",
+	"spine": "3.8.99",
+	"x": -103,
+	"y": -69,
+	"width": 206,
+	"height": 138,
+	"images": "",
+	"audio": "/Users/glawrence/Desktop/groovyAssets/sweeps"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "sweep", "bone": "root", "attachment": "images/portrait_00010" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"sweep": {
+				"images/portrait_00000": { "width": 206, "height": 138 },
+				"images/portrait_00001": { "width": 206, "height": 138 },
+				"images/portrait_00002": { "width": 206, "height": 138 },
+				"images/portrait_00003": { "width": 206, "height": 138 },
+				"images/portrait_00004": { "width": 206, "height": 138 },
+				"images/portrait_00005": { "width": 206, "height": 138 },
+				"images/portrait_00006": { "width": 206, "height": 138 },
+				"images/portrait_00007": { "width": 206, "height": 138 },
+				"images/portrait_00008": { "width": 206, "height": 138 },
+				"images/portrait_00009": { "width": 206, "height": 138 },
+				"images/portrait_00010": { "width": 206, "height": 138 },
+				"images/portrait_00011": { "width": 206, "height": 138 },
+				"images/portrait_00012": { "width": 206, "height": 138 },
+				"images/portrait_00013": { "width": 206, "height": 138 },
+				"images/portrait_00014": { "width": 206, "height": 138 },
+				"images/portrait_00015": { "width": 206, "height": 138 },
+				"images/portrait_00016": { "width": 206, "height": 138 },
+				"images/portrait_00017": { "width": 206, "height": 138 },
+				"images/portrait_00018": { "width": 206, "height": 138 },
+				"images/portrait_00019": { "width": 206, "height": 138 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"sweep": {
+				"attachment": [
+					{ "name": "images/portrait_00000" },
+					{ "time": 0.0333, "name": "images/portrait_00001" },
+					{ "time": 0.0667, "name": "images/portrait_00002" },
+					{ "time": 0.1, "name": "images/portrait_00003" },
+					{ "time": 0.1333, "name": "images/portrait_00004" },
+					{ "time": 0.1667, "name": "images/portrait_00005" },
+					{ "time": 0.2, "name": "images/portrait_00006" },
+					{ "time": 0.2333, "name": "images/portrait_00007" },
+					{ "time": 0.2667, "name": "images/portrait_00008" },
+					{ "time": 0.3, "name": "images/portrait_00009" },
+					{ "time": 0.3333, "name": "images/portrait_00010" },
+					{ "time": 0.3667, "name": "images/portrait_00011" },
+					{ "time": 0.4, "name": "images/portrait_00012" },
+					{ "time": 0.4333, "name": "images/portrait_00013" },
+					{ "time": 0.4667, "name": "images/portrait_00014" },
+					{ "time": 0.5, "name": "images/portrait_00015" },
+					{ "time": 0.5333, "name": "images/portrait_00016" },
+					{ "time": 0.5667, "name": "images/portrait_00017" },
+					{ "time": 0.6, "name": "images/portrait_00018" },
+					{ "time": 0.6333, "name": "images/portrait_00019" },
+					{ "time": 0.6667, "name": "images/portrait_00018" },
+					{ "time": 0.7, "name": "images/portrait_00017" },
+					{ "time": 0.7333, "name": "images/portrait_00016" },
+					{ "time": 0.7667, "name": "images/portrait_00015" },
+					{ "time": 0.8, "name": "images/portrait_00014" },
+					{ "time": 0.8333, "name": "images/portrait_00013" },
+					{ "time": 0.8667, "name": "images/portrait_00012" },
+					{ "time": 0.9, "name": "images/portrait_00011" },
+					{ "time": 0.9333, "name": "images/portrait_00010" },
+					{ "time": 0.9667, "name": "images/portrait_00009" },
+					{ "time": 1, "name": "images/portrait_00008" },
+					{ "time": 1.0333, "name": "images/portrait_00007" },
+					{ "time": 1.0667, "name": "images/portrait_00006" },
+					{ "time": 1.1, "name": "images/portrait_00005" },
+					{ "time": 1.1333, "name": "images/portrait_00004" },
+					{ "time": 1.1667, "name": "images/portrait_00003" },
+					{ "time": 1.2, "name": "images/portrait_00002" },
+					{ "time": 1.2333, "name": "images/portrait_00001" },
+					{ "time": 1.2667, "name": "images/portrait_00000" }
+				]
+			}
+		}
+	}
+}
+}

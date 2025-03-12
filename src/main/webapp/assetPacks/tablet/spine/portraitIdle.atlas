@@ -1,0 +1,146 @@
+
+portraitIdle.png
+size: 2014,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/portrait_00000
+  rotate: false
+  xy: 2, 142
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00019
+  rotate: false
+  xy: 2, 142
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00001
+  rotate: false
+  xy: 2, 2
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00002
+  rotate: false
+  xy: 210, 142
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00003
+  rotate: false
+  xy: 210, 2
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00004
+  rotate: false
+  xy: 418, 142
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00005
+  rotate: false
+  xy: 418, 2
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00006
+  rotate: false
+  xy: 626, 142
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00007
+  rotate: false
+  xy: 626, 2
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00008
+  rotate: false
+  xy: 834, 142
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00009
+  rotate: false
+  xy: 834, 2
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00010
+  rotate: false
+  xy: 1042, 142
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00011
+  rotate: false
+  xy: 1042, 2
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00012
+  rotate: false
+  xy: 1250, 142
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00013
+  rotate: false
+  xy: 1250, 2
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00014
+  rotate: false
+  xy: 1458, 142
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00015
+  rotate: false
+  xy: 1458, 2
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00016
+  rotate: false
+  xy: 1666, 142
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00017
+  rotate: false
+  xy: 1666, 2
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+images/portrait_00018
+  rotate: true
+  xy: 1874, 74
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "ch9.mp3",
+    "ch9.ogg",
+    "ch9.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BonusTurnsIncrease": [
+      1050,
+      539.0702947845805
+    ],
+    "PrizeBoxReveal": [
+      2100,
+      1562.4943310657598
+    ]
+  }
+}

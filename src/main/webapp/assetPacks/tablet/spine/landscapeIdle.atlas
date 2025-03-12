@@ -1,0 +1,146 @@
+
+landscapeIdle.png
+size: 1226,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/landscape_00000
+  rotate: true
+  xy: 338, 226
+  size: 304, 109
+  orig: 304, 109
+  offset: 0, 0
+  index: -1
+images/landscape_00019
+  rotate: true
+  xy: 338, 226
+  size: 304, 109
+  orig: 304, 109
+  offset: 0, 0
+  index: -1
+images/landscape_00001
+  rotate: true
+  xy: 1004, 227
+  size: 303, 109
+  orig: 303, 109
+  offset: 0, 0
+  index: -1
+images/landscape_00002
+  rotate: true
+  xy: 1115, 227
+  size: 303, 109
+  orig: 303, 109
+  offset: 0, 0
+  index: -1
+images/landscape_00003
+  rotate: false
+  xy: 613, 3
+  size: 303, 109
+  orig: 303, 109
+  offset: 0, 0
+  index: -1
+images/landscape_00004
+  rotate: false
+  xy: 918, 3
+  size: 303, 109
+  orig: 303, 109
+  offset: 0, 0
+  index: -1
+images/landscape_00005
+  rotate: false
+  xy: 308, 114
+  size: 303, 110
+  orig: 303, 110
+  offset: 0, 0
+  index: -1
+images/landscape_00006
+  rotate: false
+  xy: 308, 2
+  size: 303, 110
+  orig: 303, 110
+  offset: 0, 0
+  index: -1
+images/landscape_00007
+  rotate: false
+  xy: 613, 114
+  size: 303, 110
+  orig: 303, 110
+  offset: 0, 0
+  index: -1
+images/landscape_00008
+  rotate: false
+  xy: 918, 114
+  size: 303, 110
+  orig: 303, 110
+  offset: 0, 0
+  index: -1
+images/landscape_00009
+  rotate: true
+  xy: 449, 226
+  size: 304, 109
+  orig: 304, 109
+  offset: 0, 0
+  index: -1
+images/landscape_00010
+  rotate: true
+  xy: 560, 226
+  size: 304, 109
+  orig: 304, 109
+  offset: 0, 0
+  index: -1
+images/landscape_00011
+  rotate: true
+  xy: 2, 226
+  size: 304, 110
+  orig: 304, 110
+  offset: 0, 0
+  index: -1
+images/landscape_00012
+  rotate: false
+  xy: 2, 114
+  size: 304, 110
+  orig: 304, 110
+  offset: 0, 0
+  index: -1
+images/landscape_00013
+  rotate: true
+  xy: 114, 226
+  size: 304, 110
+  orig: 304, 110
+  offset: 0, 0
+  index: -1
+images/landscape_00014
+  rotate: true
+  xy: 226, 226
+  size: 304, 110
+  orig: 304, 110
+  offset: 0, 0
+  index: -1
+images/landscape_00015
+  rotate: false
+  xy: 2, 2
+  size: 304, 110
+  orig: 304, 110
+  offset: 0, 0
+  index: -1
+images/landscape_00016
+  rotate: true
+  xy: 671, 226
+  size: 304, 109
+  orig: 304, 109
+  offset: 0, 0
+  index: -1
+images/landscape_00017
+  rotate: true
+  xy: 782, 226
+  size: 304, 109
+  orig: 304, 109
+  offset: 0, 0
+  index: -1
+images/landscape_00018
+  rotate: true
+  xy: 893, 226
+  size: 304, 109
+  orig: 304, 109
+  offset: 0, 0
+  index: -1

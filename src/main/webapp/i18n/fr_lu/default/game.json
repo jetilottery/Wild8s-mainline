@@ -1,0 +1,111 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "est compris entre {@minRTP} % et {@maxRTP} %",
+        "paybackTitle": "Remboursement escompté",
+        "paybackBody": "Pour ce jeu, le remboursement escompté théorique sur le long terme {RTP}.",
+        "subheading": "Mises : {ticketCost}",
+        "prizeLevel": "Rang de gains",
+        "prizeValue": "Valeur des gains",
+        "overallChances": "Il y a au total 1 chance sur {odds} de remporter un gain pour chaque partie.",
+        "prizeDivision": "Rang de gains",
+        "prizeRemaining": "Gains restants approximatif",
+        "oddsPerPlay": "Chance par partie"
+    },
+    "title": "MODÈLE",
+    "MenuCommand":
+    {
+        "price": "Prix",
+        "stake": "Mise",
+        "howToPlay": "Fichier d'aide",
+        "paytable": "Table des paiements",
+        "close": "Fermer",
+        "audio":
+        {
+            "sound": "Son",
+            "on": "ON",
+            "off": "OFF"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Erreur : ",
+        "genericErrorText": "Une erreur interne s'est produite. QUITTEZ et relancez le jeu."
+    },
+    "Game":
+    {
+        "footer_balance": "SOLDE",
+        "footer_ticketCost": "MISES ",
+        "ticketSelect_ticketCost": "MISES ",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": ""
+        },
+        "footer_win":
+        {
+            "BUY": "GAIN",
+            "TRY": "GAIN"
+        },
+
+        "button_buy":
+        {
+            "BUY": "ACHETER JEU",
+            "TRY": "ESSAYER"
+        },
+        "button_try": "ESSAYER",
+        "button_continue": "CONTINUER",
+        "button_moveToMoney": "MISER DE L’ARGENT RÉEL",
+        "button_autoPlay": "TOUT RÉVÉLER",
+        "button_stop": "ARRÊTER",
+        "button_drop": "JOUER",
+        "button_playAgain":
+        {
+            "BUY": "ACHETER JEU",
+            "TRY": "ESSAYER"
+        },
+        "button_tryAgain": "ESSAYER",
+        "button_ok": "OK",
+        "button_exit": "SORTIR",
+        "button_retry": "RÉESSAYER",
+
+        "error_button_exit": "SORTIR",
+        "error_title": "ERREUR",
+
+        "message_nonWin": "VOUS AUREZ PLUS DE CHANCE\nLA PROCHAINE FOIS",
+        "message_win":
+        {
+            "BUY": "GAIN",
+            "TRY": "GAIN"
+        },
+        "message_totalWin":
+        {
+            "BUY": "GAIN TOTAL",
+            "TRY": "GAIN TOTAL"
+        },
+        "message_largeTitle":
+        {
+            "BUY": "",
+            "TRY": ""
+        },
+        "message_largeLabel":
+        {
+            "BUY": "FÉLICITATIONS !\nVOUS AVEZ GAGNÉ",
+            "TRY": "MERCI D’AVOIR JOUÉ !\nVOUS AURIEZ PU GAGNER"
+        },
+
+        "infoText": "est Wild et active 3 tours Bonus",
+        "infoTextPortrait": "est Wild et active 3 tours Bonus",
+        "howToPlay": "",
+        "page1": "\nRévélez 3 symboles 8 dans n'importe quelle rangée, colonne ou diagonale\npour gagner le montant de la Boîte de prix.\n\nRévélez la Boîte de Bonus pour avoir une chance de multiplier le\nmontant du prix gagné par 4x maximum.\n\nRévélez le symbole Groovy 8 pour gagner 3 tours Bonus pour encore plus de chances de gagner!",
+        "prizeBox": "BOÎTE\nDE PRIX",
+        "multiplierBox": "BOÎTE\nDE BONUS",
+
+        "winUpTo": "GAGNEZ JUSQU'À",
+        "bonusTextPlural": "Tours Bonus",
+        "bonusTextLast": "Dernier",
+        "bonusTextSingle": "Tour Bonus"
+    }
+}

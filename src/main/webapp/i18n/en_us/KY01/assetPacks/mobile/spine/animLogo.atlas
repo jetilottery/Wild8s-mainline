@@ -1,0 +1,104 @@
+
+animLogo.png
+size: 1206,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 10
+  size: 418, 389
+  orig: 418, 389
+  offset: 0, 0
+  index: -1
+logo 8
+  rotate: false
+  xy: 422, 102
+  size: 258, 297
+  orig: 258, 297
+  offset: 0, 0
+  index: -1
+swirl1
+  rotate: true
+  xy: 725, 4
+  size: 128, 126
+  orig: 128, 126
+  offset: 0, 0
+  index: -1
+swirl11
+  rotate: false
+  xy: 1124, 236
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+swirl2
+  rotate: false
+  xy: 1077, 32
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+swirl3
+  rotate: false
+  xy: 621, 7
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+swirl4
+  rotate: true
+  xy: 535, 2
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1
+swirl5
+  rotate: true
+  xy: 853, 16
+  size: 116, 112
+  orig: 116, 112
+  offset: 0, 0
+  index: -1
+swirl6
+  rotate: false
+  xy: 967, 16
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+swirl7
+  rotate: false
+  xy: 422, 2
+  size: 111, 98
+  orig: 111, 98
+  offset: 0, 0
+  index: -1
+swirl10
+  rotate: false
+  xy: 422, 2
+  size: 111, 98
+  orig: 111, 98
+  offset: 0, 0
+  index: -1
+swirl8
+  rotate: true
+  xy: 1124, 318
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+swirl9
+  rotate: true
+  xy: 1124, 318
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 682, 134
+  size: 440, 265
+  orig: 440, 265
+  offset: 0, 0
+  index: -1

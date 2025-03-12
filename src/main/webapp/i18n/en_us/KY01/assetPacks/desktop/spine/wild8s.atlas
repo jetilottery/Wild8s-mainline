@@ -1,0 +1,27 @@
+
+wild8s.png
+size: 639,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8
+  rotate: false
+  xy: 367, 50
+  size: 158, 182
+  orig: 158, 182
+  offset: 0, 0
+  index: -1
+burst
+  rotate: false
+  xy: 2, 2
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 367, 234
+  size: 270, 131
+  orig: 270, 131
+  offset: 0, 0
+  index: -1

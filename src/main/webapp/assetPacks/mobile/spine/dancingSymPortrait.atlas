@@ -1,0 +1,20 @@
+
+dancingSymPortrait.png
+size: 366,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dollarPortrait
+  rotate: false
+  xy: 2, 2
+  size: 180, 227
+  orig: 180, 227
+  offset: 0, 0
+  index: -1
+dollarPortraitP
+  rotate: false
+  xy: 184, 2
+  size: 180, 227
+  orig: 180, 227
+  offset: 0, 0
+  index: -1

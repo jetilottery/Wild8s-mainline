@@ -1,0 +1,9 @@
+{
+  "game": {
+    "name": "Wild8s",
+    "id": "300-2174-0",
+    "framework": "jet",
+    "version": "2.5",
+    "studio": "interactive"
+  }
+}

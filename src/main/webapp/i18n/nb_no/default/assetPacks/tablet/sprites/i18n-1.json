@@ -1,0 +1,21 @@
+{"frames": {
+
+"revealYellow03":
+{
+	"frame": {"x":1,"y":1,"w":151,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":82,"w":151,"h":178},
+	"sourceSize": {"w":366,"h":366}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "i18n-1.png",
+	"format": "RGBA8888",
+	"size": {"w":153,"h":180},
+	"scale": "1",
+	"related_multi_packs": [ "i18n-0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:50cd547e1f41383fcd6a0e2feb5de238:032ca6ef9b93fff7bb9c3d56b61d7499:5875c242378a8a51d97cce8859ccb8d4$"
+}
+}

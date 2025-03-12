@@ -1,0 +1,146 @@
+
+buttonIdle.png
+size: 1997,341
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_00000
+  rotate: true
+  xy: 2, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00019
+  rotate: true
+  xy: 2, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00001
+  rotate: true
+  xy: 107, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00002
+  rotate: true
+  xy: 212, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00003
+  rotate: true
+  xy: 317, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00004
+  rotate: true
+  xy: 422, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00005
+  rotate: true
+  xy: 527, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00006
+  rotate: true
+  xy: 632, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00007
+  rotate: true
+  xy: 737, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00008
+  rotate: true
+  xy: 842, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00009
+  rotate: true
+  xy: 947, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00010
+  rotate: true
+  xy: 1052, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00011
+  rotate: true
+  xy: 1157, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00012
+  rotate: true
+  xy: 1262, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00013
+  rotate: true
+  xy: 1367, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00014
+  rotate: true
+  xy: 1472, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00015
+  rotate: true
+  xy: 1577, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00016
+  rotate: true
+  xy: 1682, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00017
+  rotate: true
+  xy: 1787, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1
+button_00018
+  rotate: true
+  xy: 1892, 2
+  size: 337, 103
+  orig: 337, 103
+  offset: 0, 0
+  index: -1

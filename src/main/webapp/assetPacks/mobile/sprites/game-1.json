@@ -1,0 +1,37 @@
+{"frames": {
+
+"backgroundBonusGamePortrait":
+{
+	"frame": {"x":1,"y":1,"w":810,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440}
+},
+"backgroundMainGamePortrait":
+{
+	"frame": {"x":813,"y":1,"w":810,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440}
+},
+"timeoutPanel":
+{
+	"frame": {"x":1,"y":1443,"w":840,"h":522},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":840,"h":522},
+	"sourceSize": {"w":840,"h":522}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1966,"h":1966},
+	"scale": "1",
+	"related_multi_packs": [ "game-0.json", "game-2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:0dfbc479aa71ca0eb1dad20fa659d400:49f29c8342f0ff3269cca8214f649748:36c4afdab0cf3de4e276e0a60a9b2080$"
+}
+}

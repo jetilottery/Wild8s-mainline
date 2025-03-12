@@ -1,0 +1,112 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "wynosi {@minRTP}%",
+        "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot tej gry wynosi {RTP}.",
+        "subheading": "Opłata za los: {ticketCost}",
+        "prizeLevel": "Stopień wygranej",
+        "prizeValue": "Wartość wygranej",
+        "overallChances": "Łączna szansa wygrania nagrody w każdej rozgrywce wynosi 1 do {odds}.",
+        "prizeDivision": "Stopień wygranej",
+        "prizeRemaining": "Pozostało do wygrania",
+        "oddsPerPlay": "Szansa na wygraną"
+    },
+    "title": "SZABLON",
+    "MenuCommand":
+    {
+        "price": "Cena",
+        "stake": "Stawka",
+        "howToPlay": "Pomoc",
+        "paytable": "Tabela wygranych",
+        "close": "Zamknij",
+        "audio":
+        {
+            "sound": "Dźwięk",
+            "on": "Wł.",
+            "off": "Wył."
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Błąd: ",
+        "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "OPŁATA ZA LOS",
+        "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMO "
+        },
+        "footer_win":
+        {
+            "BUY": "WYGRANA",
+            "TRY": "WYGRANA BONUSOWA"
+        },
+
+        "button_buy":
+        {
+            "BUY": "PŁACĘ",
+            "TRY": "DEMO"
+        },
+        "button_try": "DEMO",
+        "button_continue": "KONTYNUUJ",
+        "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+        "button_autoPlay": "AUTO",
+        "button_stop": "STOP",
+        "button_drop": "ZAGRAJ",
+        "button_playAgain":
+        {
+            "BUY": "GRAJ PONOWNIE",
+            "TRY": "SPRÓBUJ PONOWNIE"
+        },
+        "button_tryAgain": "SPRÓBUJ PONOWNIE",
+        "button_ok": "OK",
+        "button_exit": "WYJDŹ",
+        "button_retry": "SPRÓBUJ PONOWNIE",
+
+        "error_button_exit": "WYJDŹ",
+        "error_title": "BŁĄD",
+
+        "message_nonWin": "POWODZENIA NASTĘPNYM\nRAZEM",
+        "message_win":
+        {
+            "BUY": "WYGRANA",
+            "TRY": "WYGRANA BONUSOWA"
+        },
+        "message_totalWin":
+        {
+            "BUY": "ŁĄCZNA WYGRANA",
+            "TRY": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ"
+        },
+        "message_largeTitle":
+        {
+            "BUY": "",
+            "TRY": ""
+        },
+        "message_largeLabel":
+        {
+            "BUY": "ŁĄCZNA WYGRANA",
+            "TRY": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ"
+        },
+
+        "infoText": "jest symbolem specjalnym i uruchamia 3 tury bonusowe",
+        "infoTextPortrait": "jest symbolem specjalnym i uruchamia 3 tury bonusowe",
+        "howToPlay": "",
+        "page1": "Odkryj 3 symbole ósemki w linii poziomej, pionowej lub przekątnej, aby wygrać przypisaną kwotę.\n\nOdkryj mnożnik wygranej, aby pomnożyć kwotę nawet x4.\n\nOdkryj symbol TRZY ÓSEMKI, aby otrzymać 3 tury bonusowe.",
+        "prizeBox": "KWOTA\nWYGRANEJ",
+        "multiplierBox": "MNOŻNIK\nWYGRANEJ",
+
+        "winUpTo": "WYGRAJ DO",
+        "bonusTextPlural": "tury bonusowe",
+        "bonusTextLast": "",
+        "bonusTextSingle": "Runda bonusowa",
+        "bonusTextLastWord": "tura bonusowa"
+    }
+}

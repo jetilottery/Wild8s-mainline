@@ -1,0 +1,103 @@
+{
+"skeleton": {
+	"hash": "+l7zHdW3MwFtqjGjV+gCy7NTOLs",
+	"spine": "3.8.99",
+	"x": -107,
+	"y": -105,
+	"width": 180,
+	"height": 227,
+	"images": "./images/",
+	"audio": "/Users/glawrence/Desktop/wild8s/dancingSymPortrait"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "dollarBone", "parent": "root", "length": 100, "rotation": 90, "y": -94.53 }
+],
+"slots": [
+	{ "name": "dollar", "bone": "dollarBone", "attachment": "dollarPortrait" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"dollar": {
+				"dollarPortrait": { "x": 103.03, "y": 17, "rotation": -90, "width": 180, "height": 227 },
+				"dollarPortraitP": { "x": 103.03, "y": 17, "rotation": -90, "width": 180, "height": 227 }
+			}
+		}
+	}
+],
+"animations": {
+	"intro": {
+		"bones": {
+			"dollarBone": {
+				"scale": [
+					{},
+					{ "time": 0.1667, "x": 1.4 }
+				]
+			}
+		}
+	},
+	"loop": {
+		"bones": {
+			"dollarBone": {
+				"rotate": [
+					{},
+					{ "time": 0.2667, "angle": -20 },
+					{ "time": 0.5 },
+					{ "time": 0.7667, "angle": 20 },
+					{ "time": 1 },
+					{ "time": 1.2667, "angle": -20 },
+					{ "time": 1.5 },
+					{ "time": 1.7667, "angle": 20 },
+					{ "time": 2 },
+					{ "time": 2.2667, "angle": -20 },
+					{ "time": 2.5 },
+					{ "time": 2.7667, "angle": 20 },
+					{ "time": 3 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.2667, "y": 64.53 },
+					{ "time": 0.5 },
+					{ "time": 0.7667, "y": 64.53 },
+					{ "time": 1 },
+					{ "time": 1.2667, "y": 64.53 },
+					{ "time": 1.5 },
+					{ "time": 1.7667, "y": 64.53 },
+					{ "time": 2 },
+					{ "time": 2.2667, "y": 64.53 },
+					{ "time": 2.5 },
+					{ "time": 2.7667, "y": 64.53 },
+					{ "time": 3 }
+				],
+				"scale": [
+					{ "x": 1.4 },
+					{ "time": 0.2667, "x": 0.7 },
+					{ "time": 0.5, "x": 1.4 },
+					{ "time": 0.7667, "x": 0.7 },
+					{ "time": 1, "x": 1.4 },
+					{ "time": 1.2667, "x": 0.7 },
+					{ "time": 1.5, "x": 1.4 },
+					{ "time": 1.7667, "x": 0.7 },
+					{ "time": 2, "x": 1.4 },
+					{ "time": 2.2667, "x": 0.7 },
+					{ "time": 2.5, "x": 1.4 },
+					{ "time": 2.7667, "x": 0.7 },
+					{ "time": 3, "x": 1.4 }
+				]
+			}
+		}
+	},
+	"outro": {
+		"bones": {
+			"dollarBone": {
+				"scale": [
+					{ "x": 1.4 },
+					{ "time": 0.1667 }
+				]
+			}
+		}
+	}
+}
+}
